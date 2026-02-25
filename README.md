@@ -1,5 +1,9 @@
 # 🧠Sentiment Analysis Web Application(Simple Version)
 
+## 🔗 Live Demo
+
+https://sentiment-app-fxsamvkgvpaub6mcgpfrre.streamlit.app
+
 A beginner-friendly Sentiment Analysis web app built using Python and Streamlit.  
 This application analyzes user input text and predicts whether the sentiment is **Positive**, **Negative**, or **Neutral** using TextBlob.
 
